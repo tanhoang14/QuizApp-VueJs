@@ -1,4 +1,5 @@
-# my-project
+# Quiz-App
+![Screenshot 2022-07-24 193435](https://user-images.githubusercontent.com/89440534/180682538-93f0c540-3a20-4466-8590-c5ce079eedd4.png)
 
 ## Project setup
 ```
